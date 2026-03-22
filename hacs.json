@@ -1,0 +1,7 @@
+{
+  "name": "Vendor Overrides",
+  "content_in_root": false,
+  "domains": [],
+  "country": "GB",
+  "homeassistant": "2024.0.0"
+}

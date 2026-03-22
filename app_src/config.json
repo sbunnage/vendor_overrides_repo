@@ -1,0 +1,16 @@
+{
+  "name": "Vendor Overrides",
+  "version": "1.0.0",
+  "slug": "vendor_overrides",
+  "description": "Override MAC vendor prefixes via a simple UI",
+  "startup": "application",
+  "boot": "auto",
+  "ingress": true,
+  "ingress_port": 5005,
+  "panel_icon": "mdi:network",
+  "ports": {
+    "5005/tcp": null
+  },
+  "schema": {},
+  "webui": "http://[HOST]:[PORT:5005]"
+}
