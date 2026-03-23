@@ -1,9 +1,0 @@
-set_override:
-  description: "Set or update a manual vendor override for a MAC address."
-  fields:
-    mac:
-      description: "MAC address"
-      example: "AA:BB:CC:DD:EE:FF"
-    vendor:
-      description: "Vendor name"
-      example: "Steve's Laptop"

@@ -1,1 +1,0 @@
-This is my second GitHub file. V1 was originally configured to be used with a Custom Integratiom wired into HA but now thisis a new attempt to wire via HACS There are changes to the directory structure and the adittion of hacs.json & possibly other fixes
